@@ -9,8 +9,8 @@ int state = LOW;
 int pirValue = 0;     
 
 
-const char* ssid = "EtincelleCoworking";
-const char* password = "etincelle";
+const char* ssid = "..."; // TODO
+const char* password = "..."; // TODO
 const String api_endpoint_notify = "https://callboxes.etincelle-coworking.com/api/motion";
 const String api_endpoint_alive = "https://callboxes.etincelle-coworking.com/api/alive";
 
